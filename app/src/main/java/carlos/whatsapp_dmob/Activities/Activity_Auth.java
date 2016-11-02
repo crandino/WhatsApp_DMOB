@@ -1,4 +1,4 @@
-package carlos.whatsapp_dmob;
+package carlos.whatsapp_dmob.Activities;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -6,6 +6,8 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
+
+import carlos.whatsapp_dmob.R;
 
 public class Activity_Auth extends Activity implements View.OnClickListener {
 

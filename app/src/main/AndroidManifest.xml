@@ -9,7 +9,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
 
-        <activity android:name=".Activity_Auth">
+        <activity android:name=".Activities.Activity_Auth">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -17,7 +17,7 @@
             </intent-filter>
         </activity>
 
-        <activity android:name=".Activity_Chat" />
+        <activity android:name=".Activities.Activity_Chat" />
 
     </application>
 
